@@ -1,0 +1,43 @@
+[33mcommit 4b3774e28e4304c1c4a4ce585b9ef5d455d8c310[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 5f9cd66 4fb2073
+Author: Sergio Peluffo <sergio.peluffo@tradelog.com.ar>
+Date:   Tue Jul 11 14:58:45 2023 -0300
+
+    Merge branch 'conflicto-rama'
+
+[33mcommit 5f9cd667cc2db71ffae6a793f62174300f176a76[m
+Author: Sergio Peluffo <sergio.peluffo@tradelog.com.ar>
+Date:   Tue Jul 11 14:49:09 2023 -0300
+
+    conflicto cambio 2 Main
+
+[33mcommit 4fb207303cfad2adbc98f7bb97cb6879a0f11a4d[m[33m ([m[1;32mconflicto-rama[m[33m)[m
+Author: Sergio Peluffo <sergio.peluffo@tradelog.com.ar>
+Date:   Tue Jul 11 14:47:56 2023 -0300
+
+    conflicto cambio 1
+
+[33mcommit 0be10b0815eae7fb1ad0e3e58c16d73ef731abb4[m
+Merge: 6b670b0 6f29692
+Author: Sergio Peluffo <sergio.peluffo@tradelog.com.ar>
+Date:   Tue Jul 11 14:44:42 2023 -0300
+
+    Merge branch 'conflicto-rama'
+
+[33mcommit 6b670b079d5cf9070ae99d52a423c7dca7db481d[m
+Author: Sergio Peluffo <sergio.peluffo@tradelog.com.ar>
+Date:   Tue Jul 11 14:38:55 2023 -0300
+
+    cambio conflicto en main
+
+[33mcommit 6f29692a62d81c09bb04d8b2d51bcf52a5a97a88[m
+Author: Sergio Peluffo <sergio.peluffo@tradelog.com.ar>
+Date:   Tue Jul 11 14:33:41 2023 -0300
+
+    conflictos.txt
+
+[33mcommit 14a90ad6ed0e21ddc2f8fa0a6627863cccc47889[m
+Author: Sergio Peluffo <sergio.peluffo@tradelog.com.ar>
+Date:   Tue Jul 11 14:29:03 2023 -0300
+
+    Conflitos

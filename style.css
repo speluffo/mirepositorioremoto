@@ -1,0 +1,125 @@
+body {
+    background-color: antiquewhite;
+    color: white;
+    font-family: Arial, sans-serif;
+    font-size: 28px;
+  }
+  
+  .nav-links li {
+    color: blue;
+    display: inline-block;
+    margin: 0 10px;
+  }
+  
+  .container-nav {
+    background-color: white(173, 230, 177);
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .container-nav .brand {
+    color: rgb(23, 64, 127);
+    text-decoration: none;
+  }
+  
+  .container {
+    text-align: left;
+    padding: 20px;
+  }
+  
+  .container h1 {
+    background: linear-gradient(to bottom, blue(177, 173, 230), blue);
+    font-size: 60px;
+    padding: 20px;
+    margin: 0;
+    color: white;
+    text-align: center;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 15);
+  }
+  
+  .button-menu-toggle {
+    background-color: lightblue;
+    border-radius: 10px;
+  }
+  
+  .container p {
+    text-align: left;
+  }
+  
+  button[onclick="showAlert()"] {
+    background-color: yellow;
+    border-radius: 50%;
+  }
+  .img{
+    font-size: 60px;
+    padding: 20px;
+  }
+  .contenedor{
+    display: flex;
+    flex-direction: column; 
+    width: 50px;
+   
+  }
+
+
+#myForm {
+  background-color: blue;
+  text-align: center;
+  padding: 20px;
+}
+
+#myForm label {
+  display: block;
+  margin-bottom: 10px;
+  color: white;
+}
+
+#myForm input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+#myForm #Mensaje {
+  font-size: 12%;
+}
+
+#myForm button {
+  background-color: yellow;
+  border: none;
+  border-radius: 50%;
+  padding: 10px 20px;
+}
+
+
+
+#myForm label[for="Nombre"],
+#myForm label[for="email"],
+#myForm label[for="Mensaje"] {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 5px;
+  color: white;
+}
+.Contenedor1,
+.Contenedor2,
+.Contenedor3 {
+  display: inline-block;
+  text-align: center;
+  vertical-align: 100%;
+  margin: 100px;
+}
+
+.Contenedor1 img,
+.Contenedor2 img,
+.Contenedor3 img {
+  display: block;
+  max-width: 300px;
+  height: auto;
+}
+
+.Contenedor1 li,
+.Contenedor2 li,
+.Contenedor3 li {
+  color: white;
+}
